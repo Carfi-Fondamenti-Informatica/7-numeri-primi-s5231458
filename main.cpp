@@ -5,7 +5,7 @@ int main() {
     int n=0;
     cin>>n;
     if (nprimo(n, n-1)){
-        cout<<"numerp primo";
+        cout<<"numero primo";
 
     }else{
         cout<<"numero non primo";
